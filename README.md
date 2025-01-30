@@ -21,7 +21,10 @@ A Chrome extension that changes the CSS colors of a webpage to Matrix green (`#0
    git clone https://github.com/AykeSii/arago_technical_test.git
    ```
 
-### Step 2: Install the extension on your browser (Google Chrome in this case)
+### Step 2: Install and launch the extension on your browser (Google Chrome in this case)
 
-2. Go to your extension manager, enable developer mode, and "Load unpacked extension":
+1. Go to your extension manager, enable developer mode, and "Load unpacked extension":
    <img src="https://i.imgur.com/vSMMll1.png"/>
+
+2. Go to your extensions, then press ‘Color Changer’ and the magic will begin!:
+   <img src="https://i.imgur.com/760x4NN.png"/>
