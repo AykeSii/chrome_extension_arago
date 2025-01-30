@@ -28,3 +28,5 @@ A Chrome extension that changes the CSS colors of a webpage to Matrix green (`#0
 
 2. Go to your extensions, then press ‘Color Changer’ and the magic will begin!:
    <img src="https://i.imgur.com/760x4NN.png"/>
+
+Try it on GitHub, it works really well!
